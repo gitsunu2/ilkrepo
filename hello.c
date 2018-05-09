@@ -4,8 +4,6 @@ int main(){
 
 		printf("Merhaba dunya");
 		printf("Merhaba mars");
-		printf("Selam jupiter");
-		
-		printf("Hacked by nerds")
+		printf("Selam jupiter")
 		return 0;
 }
